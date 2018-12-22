@@ -1,0 +1,7 @@
+id=HuaweiCallRecorder
+name=Huawei Call Recorder for EMUI 8+
+version=v1
+versionCode=1
+author=Siredux
+description=Call Recorder for Huawei devices running EMUI 8+
+minMagisk=17000
